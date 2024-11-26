@@ -1,4 +1,4 @@
-// prog to convert the units
+// prog to convert the  distance units
 #include<stdio.h>
 int main()
 {
